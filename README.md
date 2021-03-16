@@ -9,7 +9,7 @@
 
 </div>
 
-  Connect is an extensible HTTP server framework for [node](http://nodejs.org) using "plugins" known as _middleware_. [connect-rest](https://github.com/imrefazekas/connect-rest) is a featureful very easy-to-use middleware for [connect](https://github.com/senchalabs/connect) for building REST APIs. The library has a stunning feature list beyond basic rest functionality.
+  Connect is an extensible HTTP server framework for [node](http://nodejs.org) using "plugins" known as _middleware_. Plugin [connect-rest](https://github.com/imrefazekas/connect-rest) is a featureful very easy-to-use middleware for [connect](https://github.com/senchalabs/connect) for building REST APIs. The library has a stunning feature list beyond basic rest functionality.
 
 ```js
 var connect = require('connect');
